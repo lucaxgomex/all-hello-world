@@ -2,10 +2,11 @@
 
 const e = React.createElement;
 
-function Message() {
-	return e(
-		"Hello World"
-	);
+class LikeButton extends React.Component {
+  render() {
+  	return "Hello World";
+  }
 }
 
-ReactDOM.render(e(Message), document.querySelector("#root"));
+const domContainer = document.querySelector('#root');
+ReactDOM.render(e(LikeButton), domContainer);
