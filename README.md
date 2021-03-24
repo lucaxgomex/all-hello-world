@@ -11,5 +11,6 @@ A ideia deste repositório é realizar testes bastante simples utilizando 4 tecn
 ### Resultado final
 ![Exemplo da execução do código](imgs/final-result.png) 
 
-### Link para o video
-> <https://www.youtube.com/watch?v=wmffXVS-1cc>
+
+### Demonstração da execução
+> [Clique aqui](https://www.youtube.com/watch?v=wmffXVS-1cc)
