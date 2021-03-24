@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+# O programa Hello World
 
-You can use the [editor on GitHub](https://github.com/lucaxgomex/all-hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> O portão de entrada para grandes desenvolvedores e programadores
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A ideia deste repositório é realizar testes bastante simples utilizando 4 tecnologias principais. Estas serão o carro-chefe no que diz respeito à disciplina de análise e desenvolvimento de sistemas. Tais tecnologias são:
+* HTML + CSS;
+* React;
+* Django;
+* TypeScript.
 
-
+### Resultado final
+![Exemplo da execução do código]("imgs/final-result.png") 
 
 ### Markdown
 
@@ -39,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Link para o video
-> https://www.youtube.com/watch?v=wmffXVS-1cc
+> <https://www.youtube.com/watch?v=wmffXVS-1cc>
