@@ -9,7 +9,7 @@ A ideia deste repositório é realizar testes bastante simples utilizando 4 tecn
 * TypeScript.
 
 ### Resultado final
-![Exemplo da execução do código]("imgs/final-result.png") 
+![Exemplo da execução do código](imgs/final-result.png) 
 
 ### Markdown
 
