@@ -4,7 +4,11 @@
 }
 
 body {
-	background-color: #2644ed;
+	/*background-image: url("https://graffitibrazil.files.wordpress.com/2012/06/va-19-556x372.jpg");*/
+	background-image: url("https://media.gazetadopovo.com.br/haus/2012/08/boston-gemeos-83552d80.jpg");
+	background-repeat: no-repeat;
+	background-position: all;
+	background-size: cover;
 }
 
 section {
@@ -12,14 +16,24 @@ section {
 	display: flex;
 	justify-content: center;
 	top: 25%;
-	left: 50%;
-	transform: translateX(-50%);
+	left: 35%;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	border: none;
+	outline: none;
+}
+
+section > section {
+  	opacity: 0.5;
 }
 
 #title {
 	color: #ffffff;
 	font-family: Arial;
-	background-color: gray;
-	padding: 70px 120px;
-	box-shadow: 5px 10px 8px #888888;
+	background-color: #848d9c;
+	padding: 70px 120px;	
+}
+
+#title:hover {
+	background-color: blue;
+	opacity: 0.5;
 }
